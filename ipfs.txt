@@ -1,0 +1,25 @@
+https://ipfs.io/ipfs/QmYt18ngf9sW6qHprj48rwGZnL2JFTRwsrsSSfexNTXxtZ/1.jpg
+
+carbon: https://ipfs.io/ipfs/QmPReVNY6h76oaUa963dnNJdFZNuTC4UaStYgF3bhYd33a
+diamond: https://ipfs.io/ipfs/QmVcVJ97yX95sB1ei7Q4tEie2Dmby1dv2NBQfZJMA9185q
+pearl: https://ipfs.io/ipfs/Qmf7PBQuyjDYFV4fmHwPFH4KvHg9mLy9BAy9sq2J39KjJv
+ruby: https://ipfs.io/ipfs/QmbyrjiLLxUx1ih5h5rD6TAAwnzXyJJn1CbSh23SMaBoRX
+
+CloverNFT-Yard-Carbon-Json   	QmPifEarTAdfUQ36vVYfnTRhLVXT9DqwqTUVUmstL4hdSe
+CloverNFT-Yard-Diamond-Json  	QmTMSVgJRiugZeqxZPD9ZwAJNHFqp3SegXnYS1f2ZPV2dU
+CloverNFT-Yard-Pearl-Json  		QmU1Bs734E8BER5HQQTnmZh1PxnXrxAFhMEjLwMBYrkGYh
+CloverNFT-Yard-Ruby-Json  		QmQqabnawVKdbabez5qzhnRj1wTLBhViTBYiyxv9auLM71
+
+CloverNFT-Pot-Carbon-Json 		QmU4j8hbUSTD9htWgU8qi3zimSZoVKKpdztWRZUaMrtYsK
+CloverNFT-Pot-Diamond-Json		Qmevg6DYnLgrbpa5iaxeDrbiGuXgEdqDiLaPjvrTHerUnz
+CloverNFT-Pot-Pearl-Json  		QmNSsD9HhbU95Sr2JYg7MyEGExiULY1Fe9uxjhn4iqNjEY
+CloverNFT-Pot-Ruby-Json  		QmQ2qhP8QaaPzhaE2WBMeyAKPbLVuV9Er9gw7NgDdjBbWu
+
+CloverNFT-Field-Carbon-Json 	QmZZFVLnwmJ5SBev4v337giMVSYxQuEBV5dzyAyzwSDESc
+CloverNFT-Field-Diamond-Json	QmefEjS8ohnTR4VoBtCHFBGpv2PGMLeBHXHEkgUGs2ZeRw
+CloverNFT-Field-Pearl-Json  	QmWy3rbUwmVtQQzZ3HGxivvqzz2EGsGDtWqLdcjxUdJxAo
+CloverNFT-Field-Ruby-Json  		QmWKMynTu3jVsCFheNajEBv8ahM2X9Tqt2jhLtzsarGNvw
+
+
+
+
